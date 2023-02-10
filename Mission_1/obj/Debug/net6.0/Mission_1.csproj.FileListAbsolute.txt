@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\bin\Debug\net6.0\Mission_1.exe
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\bin\Debug\net6.0\Mission_1.deps.json
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\bin\Debug\net6.0\Mission_1.runtimeconfig.json
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\bin\Debug\net6.0\Mission_1.dll
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\bin\Debug\net6.0\Mission_1.pdb
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.AssemblyInfo.cs
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.dll
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\refint\Mission_1.dll
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.pdb
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\Mission_1.genruntimeconfig.cache
+C:\Users\1\Desktop\C#-DZ_2\Mission_1\obj\Debug\net6.0\ref\Mission_1.dll
