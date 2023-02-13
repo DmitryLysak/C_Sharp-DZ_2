@@ -3,10 +3,7 @@
 
 Console.WriteLine("Введите цифру от 1 до 7");
 int input = int.Parse(Console.ReadLine()!);
-if (input < 1 )
-    Console.WriteLine("Ой кто-то не умеет читать, Вы ввели недопустимую цифру");
-else
-if (input > 7 )
+if ((input < 1) || (input > 7))
     Console.WriteLine("Ой кто-то не умеет читать, Вы ввели недопустимую цифру");
 else
 if (input <= 5)
